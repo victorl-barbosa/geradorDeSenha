@@ -52,6 +52,8 @@ Este projeto é um gerador de senhas desenvolvido com HTML, CSS e JavaScript. El
 
 ## Print do Projeto
 
+Clique [aqui](https://senhanovasegura.netlify.app) para acessar o meu projeto.
+
 ![Screenshot_64](https://github.com/user-attachments/assets/eda21955-be26-437a-8ffa-37fb1eca6b92)
 
 ---
